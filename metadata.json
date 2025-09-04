@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Somali Programmer AI ",
+  "description": "A personal AI chat bot, similar to ChatGPT, powered by the Gemini API. Engage in conversation, ask questions, and get instant, streaming responses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
